@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=switch-audio
+Comment=
+Exec=/mnt/serviio/bin/switch-audio.sh
+Icon=multimedia-audio-player
+Path=
+Terminal=false
+StartupNotify=false
